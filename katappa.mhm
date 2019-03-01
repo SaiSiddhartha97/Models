@@ -1,0 +1,39 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags katappa
+camera 0.0 0.0 -0.442937293555 0.415184919531 0.389924788234 1.2157375
+modifier mouth/mouth-dimples-in|out 0.424000
+modifier macrodetails-universal/Muscle 0.655000
+modifier macrodetails/African 0.333333
+modifier macrodetails-proportions/BodyProportions 0.500000
+modifier ears/l-ear-trans-down|up 0.194000
+modifier macrodetails/Gender 1.000000
+modifier macrodetails-height/Height 0.500000
+modifier breast/BreastSize 0.500000
+modifier mouth/mouth-lowerlip-middle-down|up 0.310000
+modifier macrodetails/Age 0.592000
+modifier mouth/mouth-angles-down|up 0.454000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 0.333333
+modifier forehead/forehead-temple-decr|incr 0.294000
+modifier head/head-diamond 0.360000
+modifier macrodetails/Caucasian 0.333333
+modifier ears/r-ear-trans-down|up 0.194000
+modifier head/head-round 0.079000
+modifier macrodetails-universal/Weight 0.604000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Shape02 a59089de-3180-40e6-8406-bda05bb837ff
+proxy male_muscle_13290 79e967dc-3f7a-4f2d-851e-4f06753ed571
+eyelashes Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2
+skeleton default.mhskel
+eyebrows eyebrow003 4089e4e3-b842-40f4-91a4-0686118f7535
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+clothes Moustache 8dbdff2d-495f-4dd6-8f27-5898ae4a3ad9
+clothes CrudeSword 1cd0f3b6-37b6-426a-8dde-8008dbab57e5
+clothes male_casualsuit06 be449715-fd7d-49d1-bca1-7fdd4264bc2d
+clothes Full_beard f06387f9-3365-493d-bee6-72bc33013936
+clothesHideFaces True
+background front katappa.jpg 1.77777777778 1.9333307445 7.53332710266 0.13
+skinMaterial skins/default.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+subdivide False

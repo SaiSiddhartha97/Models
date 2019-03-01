@@ -1,0 +1,32 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags meera
+camera 0.0 0.0 -0.010649120553 0.968557248731 0.033468264059 3.8972125
+modifier macrodetails-universal/Muscle 0.500000
+modifier macrodetails/African 0.333333
+modifier macrodetails-proportions/BodyProportions 0.500000
+modifier head/head-scale-depth-decr|incr -0.270000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails-height/Height 0.500000
+modifier breast/BreastSize 0.000000
+modifier head/head-invertedtriangular 0.373000
+modifier macrodetails/Age 0.500000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 0.333333
+modifier head/head-oval 0.286000
+modifier head/head-diamond 0.190000
+modifier head/head-age-decr|incr -0.318000
+modifier macrodetails/Caucasian 0.333333
+modifier head/head-scale-horiz-decr|incr -0.524000
+modifier head/head-round 0.357000
+modifier macrodetails-universal/Weight 0.500000
+modifier head/head-trans-down|up -0.396000
+hair curly 9234f5ca-2662-4d3a-a387-67989f6f5972
+eyelashes eyelashes02 04a0718e-aaa4-4480-a013-ad51703bef6b
+eyebrows Eyebrows_01 f149a730-66c5-4de4-91eb-d90cec9d1656
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothesHideFaces True
+skinMaterial skins/young_asian_female/young_asian_female.mhmat
+material curly 9234f5ca-2662-4d3a-a387-67989f6f5972 curly.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False
